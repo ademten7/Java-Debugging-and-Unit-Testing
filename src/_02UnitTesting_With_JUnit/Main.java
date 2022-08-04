@@ -1,4 +1,4 @@
-package _3More_Assertions;
+package _02UnitTesting_With_JUnit;
 
 public class Main {
 

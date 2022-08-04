@@ -1,4 +1,4 @@
-package _1DebuggerDemo;
+package _01DebuggerDemo;
 
 /**
  * Created by timbuchalka on 15/11/16.

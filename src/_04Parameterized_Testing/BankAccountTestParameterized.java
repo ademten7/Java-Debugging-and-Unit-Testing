@@ -1,4 +1,4 @@
-package _4Parameterized_Testing;
+package _04Parameterized_Testing;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;

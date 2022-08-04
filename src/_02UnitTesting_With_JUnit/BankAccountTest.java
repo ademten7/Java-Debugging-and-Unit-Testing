@@ -1,4 +1,4 @@
-package _2UnitTesting_With_JUnit;
+package _02UnitTesting_With_JUnit;
 
 import static junit.framework.TestCase.assertEquals;
 import static junit.framework.TestCase.assertTrue;

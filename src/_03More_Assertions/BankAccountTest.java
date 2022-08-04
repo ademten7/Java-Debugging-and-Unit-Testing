@@ -1,4 +1,4 @@
-package _3More_Assertions;
+package _03More_Assertions;
 
 import static junit.framework.TestCase.*;
 

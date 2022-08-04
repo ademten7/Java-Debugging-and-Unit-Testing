@@ -1,4 +1,4 @@
-package _1DebuggerDemo;
+package _01DebuggerDemo;
 
 public class Main {
 
